@@ -1,0 +1,14 @@
+C:\Users\USER\Source\Repos\Service_thi\EADAssignmentService\obj\Debug\Sevices_thi.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\Service_thi\EADAssignmentService\obj\Debug\Sevices_thi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\Service_thi\EADAssignmentService\obj\Debug\EADAssignmentService.dll
+C:\Users\USER\Source\Repos\Service_thi\EADAssignmentService\obj\Debug\EADAssignmentService.pdb
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EADAssignmentService.dll.config
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EADAssignmentService.dll
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EADAssignmentService.pdb
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EntityFramework.dll
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EntityFramework.xml
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\obj\Debug\Sevices_thi.csproj.CopyComplete
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\obj\Debug\EADAssignmentService.Migrations.init_database.resources
+C:\Users\USER\source\repos\Service_thi\EADAssignmentService\obj\Debug\Sevices_thi.csproj.GenerateResource.cache

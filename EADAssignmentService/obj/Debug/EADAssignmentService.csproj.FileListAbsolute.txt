@@ -1,0 +1,14 @@
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EADAssignmentService.dll.config
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EADAssignmentService.dll
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EADAssignmentService.pdb
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EntityFramework.dll
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EntityFramework.SqlServer.dll
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EntityFramework.xml
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\bin\EntityFramework.SqlServer.xml
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.csproj.AssemblyReference.cache
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.csproj.CoreCompileInputs.cache
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.csproj.CopyComplete
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.dll
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.pdb
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.Migrations.InitTable.resources
+F:\HocWeb\EAD\BT Webservice\EADAssignmentService\EADAssignmentService\obj\Debug\EADAssignmentService.csproj.GenerateResource.cache

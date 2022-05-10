@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sevices_thi", "EADAssignmentService\Sevices_thi.csproj", "{1CD1D123-DCAD-4F7A-AA30-00191DC3AA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD1D123-DCAD-4F7A-AA30-00191DC3AA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD1D123-DCAD-4F7A-AA30-00191DC3AA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD1D123-DCAD-4F7A-AA30-00191DC3AA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD1D123-DCAD-4F7A-AA30-00191DC3AA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D95641-BAF6-4C6F-A6E8-4DF78FE14FB3}
+	EndGlobalSection
+EndGlobal
